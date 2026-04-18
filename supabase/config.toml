@@ -1,1 +1,4 @@
 project_id = "nsfarlnprmdjaosfuhlf"
+
+[functions.send-order-sms]
+verify_jwt = false
